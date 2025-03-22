@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/QuebraCabeca.Console/QuebraCabeca.Console.csproj" />
+  </Folder>
+</Solution>
